@@ -1,6 +1,6 @@
 #MOVIE LIST - DNC
 
-Link do repositório: https://github.com/MattMori/MovieList
+Link do repositório: https://github.com/MattMori/MovieList/tree/version-1
 
 link do site hospedado: https://movie-list-git-version-1-mattmori.vercel.app/
 
